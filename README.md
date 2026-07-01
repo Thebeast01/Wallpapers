@@ -315,6 +315,16 @@
 <img src="./dark/234.jpg" width="300" loading="lazy" />
 <br/>
 <img src="./dark/235.jpg" width="300" loading="lazy" />
+<img src="./dark/236.jpg" width="300" loading="lazy" />
+<img src="./dark/237.jpg" width="300" loading="lazy" />
+<img src="./dark/238.jpg" width="300" loading="lazy" />
+<img src="./dark/239.jpg" width="300" loading="lazy" />
+<img src="./dark/240.jpg" width="300" loading="lazy" />
+<img src="./dark/241.jpg" width="300" loading="lazy" />
+<img src="./dark/242.jpg" width="300" loading="lazy" />
+<img src="./dark/243.jpg" width="300" loading="lazy" />
+<img src="./dark/244.jpg" width="300" loading="lazy" />
+<img src="./dark/245.jpg" width="300" loading="lazy" />
 </p>
 
 ---
@@ -420,5 +430,14 @@
 <img src="./Custom-wallpapers/413.png" width="300" loading="lazy" />
 <img src="./Custom-wallpapers/414.png" width="300" loading="lazy" />
 <img src="./Custom-wallpapers/415.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/416.png" width="300" loading="lazy" />
+
+<img src="./Custom-wallpapers/417.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/418.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/419.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/420.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/421.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/422.png" width="300" loading="lazy" />
+<img src="./Custom-wallpapers/423.png" width="300" loading="lazy" />
 </p>
 
